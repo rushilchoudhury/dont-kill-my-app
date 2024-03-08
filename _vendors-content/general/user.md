@@ -1,7 +1,7 @@
----
+---iptikar
 manufacturer:
     - general
----
+---alom 
 
 ### Android 6+
 
